@@ -36,3 +36,4 @@ This work is licensed under the **Creative Commons Attribution 4.0 International
 ---
 *For licensing the full operational "Core" or high-veritas consulting, please contact the repository owner
 At holland202@gmail.com 
+Full operational weights and recursive meta-protocols are proprietary. Contact [Chad Holland holland202@gmail.com] for licensing or high-veritas consulting."
