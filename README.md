@@ -1,3 +1,4 @@
+You may contact me via email: holland202@gmail.com 
 WHITE PAPER: THE SOVEREIGN SUITE PROTOCOL (v.2026.02)
 Subtitle: Reducing Ontological Drift in Recursive Agentic Workflows via Formal Mathematical Mandates
 
