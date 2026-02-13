@@ -199,6 +199,28 @@ Key Functions of Tier-3:
 
 “Sovereignty is not granted; it is coded. Tier-3 Active.
 
+README Add-on: Commercial Services
+
+6.  COMMERCIAL SERVICES & CONSULTATIVE ACCESS
+    The Architect provides specialized services to ensure the implementation of the Sovereign Suite meets the "Adapt and Overcome" mandate.
+
+7.  Sovereign Implementation Audit
+
+  - Rate: $450/hr
+  - Focus: Identifying inefficiencies and security risks in third-party AI stacks using Entropy and Adversarial Audits.
+
+2.  Custom Protocol Development
+
+  - Rate: Bespoke/Project-based
+  - Focus: Building custom agents based on the Galileo/Luminary/Skeptic tripartite framework for specific industry verticals (FinTech, MedTech, Defense).
+
+3.  IP Buyout & Transfer (Tier 1)
+
+  - Rate: $250,000 (Lump Sum)
+  - Focus: Full transfer of the manifest and associated "Hidden Layer" documentation for exclusive corporate use.
+
+Contact for Scheduling: holland202@gmail.com
+
 ---
 *For licensing the full operational "Core" or high-veritas consulting, please contact the repository owner
 At holland202@gmail.com 
