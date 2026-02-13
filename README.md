@@ -1,3 +1,13 @@
+<div align="center">
+
+![License](https://img.shields.io/badge/LICENSE-SOVEREIGN_ENTERPRISE-gold?style=for-the-badge)
+![Buyout](https://img.shields.io/badge/ENTERPRISE_BUYOUT-$250K-blue?style=for-the-badge)
+![Math](https://img.shields.io/badge/LOGIC-CAUCHY_VERIFIED-green?style=for-the-badge)
+
+</div>
+
+---
+
 You may contact me via email: holland202@gmail.com 
 
 WHITE PAPER: THE SOVEREIGN SUITE PROTOCOL (v.2026.02)
