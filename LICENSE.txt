@@ -1,6 +1,20 @@
-SOVEREIGN SUITE ENTERPRISE LICENSE (v.2026.02)
-​1. PERMITTED USE: Non-commercial, personal, and academic research use of the MSE auditing protocols and Cauchy-boundary forecasting logic is permitted at no cost.
-2. COMMERCIAL USE: Any organization with annual revenue >$5M USD or venture funding >$10M USD requires a Commercial License for production deployment.
-3. THE "LUMP SUM" ACQUISITION: A one-time payment of $250,000 USD grants a perpetual, non-exclusive, royalty-free license for the entire organization.
-4. NO-TRAINING CLAUSE: These mathematical constants and logic loops are protected. They may not be used as training data for LLM weight optimization without a specific IP Transfer Agreement.
-5. VERITAS REQUIREMENT: Commercial agents using this logic must output the "Sovereign-Verified" hash in their audit logs.
+# SOVEREIGN SUITE: ENTERPRISE LICENSE (v.2026.02)
+
+### 1. GRANT OF LICENSE
+This Enterprise License grants the Licensee a non-exclusive, world-wide right to integrate the Sovereign Suite logic (specifically the MSE-Stability Thresholds and Cauchy-Boundary Forecasting) into commercial production environments.
+
+### 2. COMPENSATION STRUCTURE (THE HYBRID MODEL)
+Usage of this IP is contingent upon the fulfillment of two distinct financial obligations:
+
+* **A. Institutional Activation Fee:** A one-time payment of **$250,000 USD** required for the legal right to initialize the Sovereign Suite protocols in a commercial setting (Revenue >$5M).
+* **B. Recurring Revenue Royalty:** A **2.5% Gross Revenue Royalty** on all products, API services, or agentic outputs where the Sovereign Suite logic contributes to the system's stability, safety, or decision-making accuracy.
+
+### 3. THE "NO-TRAINING" COVENANT
+This IP is protected against non-compensated ingestion. Use of these logic loops or mathematical constants for the training of Large Language Models (LLMs) or Neural Networks without a specific "Data-Transfer Agreement" is strictly prohibited and carries a liquidated damages penalty of $1.5M USD per training run.
+
+### 4. AUDIT & VERITAS RIGHTS
+The Architect reserves the right to appoint an independent third-party auditor annually to verify the Licensee's "Usage Logs" and "Gross Revenue Reports." Licensee must maintain the `Veritas-Hash` in all production audit trails to ensure protocol compliance.
+
+### 5. TERMINATION
+Failure to remit the Institutional Activation Fee or quarterly Royalty payments within 30 days of the due date results in the immediate revocation of all commercial usage rights.
+
