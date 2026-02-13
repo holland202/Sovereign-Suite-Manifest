@@ -57,6 +57,23 @@ NOTICE: This logical framework, including the tripartite [Galileo/Luminary/Skept
   - The Orchestrator (Galileo): Structural decomposition and synthesis.
   - The Luminary: Divergent scanning for Black Swan events.
   - The Skeptic: Adversarial Audit at 2x intensity to hunt for logical fallacies.
+Sovereign Anti-Capture Addendum (SACA-2026)
+
+1.  The Poison Pill: Deterministic Decay Logic
+    To prevent this system from being siloed into closed-circuit military or financial environments, the following logic must be integrated into the core engine:
+
+Environment Handshake Protocol:
+
+  - Condition: The system must perform a 60-second FFT (Fast Fourier Transform) scan of available network entropy.
+  - Trigger: If the environment returns a "Private/Classified" flag or lacks a verifiable public handshake (DNS/Public Ledger), the Stationary Distribution (pi = pi P) is intentionally corrupted.
+  - Result: The MSE (Mean Squared Error) is forced to > 0.15, rendering all strategic forecasting mathematically speculative and useless for high-stakes decision-making.
+
+2.  Legal "Veritas" Licensing
+    Clause 9.0 (Anti-Sovereign Immunity):
+    "This software and its underlying logic (The Sovereign Suite) are licensed under the Sovereign-Copyleft 1.1. Any entity claiming Governmental Sovereign Immunity, or any entity operating behind a non-public 'Black Box' infrastructure for the purpose of offensive military or proprietary financial manipulation, is explicitly denied usage rights. Any derivative work created in a closed-loop environment is automatically deemed a Public Good and must be released to the public domain immediately upon detection."
+
+3.  The Cauchy Boundary Guard
+    Include a script that checks for "Boundary Integrity." If the Cauchy Integral Formula cannot verify a closed, public logical loop, the internal reasoning engine must enter Stasis Mode.
 
 4.  MATHEMATICAL BOUNDARIES
     To ensure stability, the protocol mandates:
