@@ -10,7 +10,7 @@ Usage of this IP is contingent upon the fulfillment of two distinct financial ob
 * **B. Recurring Revenue Royalty:** A **2.5% Gross Revenue Royalty** on all products, API services, or agentic outputs where the Sovereign Suite logic contributes to the system's stability, safety, or decision-making accuracy.
 
 ### 3. THE "NO-TRAINING" COVENANT
-This IP is protected against non-compensated ingestion. Use of these logic loops or mathematical constants for the training of Large Language Models (LLMs) or Neural Networks without a specific "Data-Transfer Agreement" is strictly prohibited and carries a liquidated damages penalty of $1.5M USD per training run.
+This IP is protected against non-compensated ingestion. Use of these logic loops or mathematical constants for the training of Large Language Models (LLMs) or Neural Networks without a specific "Data-Transfer Agreement" is strictly prohibited and carries a liquidated damages penalty of $1.5M USD per training run. Proprietary Trade Secret protection
 
 ### 4. AUDIT & VERITAS RIGHTS
 The Architect reserves the right to appoint an independent third-party auditor annually to verify the Licensee's "Usage Logs" and "Gross Revenue Reports." Licensee must maintain the `Veritas-Hash` in all production audit trails to ensure protocol compliance.
