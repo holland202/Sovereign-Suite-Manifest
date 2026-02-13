@@ -141,9 +141,15 @@ NOTICE: This logical framework, including the tripartite [Galileo/Luminary/Skept
 ## 2. Core Components & Logic States
 The architecture operates through a 3-agent adversarial loop to deconstruct the **Ontological Gap** between surface data and fundamental truth:
 
-* **The Orchestrator [Galileo]:** A decomposition engine that breaks complex queries into N technical sub-tasks using **Kolmogorov Complexity (K(x))** to identify the shortest logical path.
-* **Divergent Scan [Luminary]:** A high-variance heuristic search for "Black Swan" events ($P < 0.01$) and hidden-layer perspectives that standard predictive models ignore.
-* **Adversarial Audit [Skeptic]:** A stress-test protocol using **Bayesian Revision** to hunt for logical fallacies, surveillance risks, and instruction drift at 2x intensity.
+The Meta-Cognitive Architecture (Gated Tier)
+​The Sovereign Suite operates via a Tripartite Recursive Logic Loop. This architecture ensures that all outputs are filtered through three distinct cognitive layers before final synthesis.
+​Layer 1: The Orchestrator (Galileo) - Decomposition & Structural Integrity.
+​Status: [ENCRYPTED/GATED] - Breaks complex queries into high-veritas sub-tasks using FFT processing and entropy reduction.
+​Layer 2: The Luminary - Divergent Scan & "Black Swan" Detection.
+​Status: [ENCRYPTED/GATED] - Identifies low-probability, high-impact disruptions (P < 0.01) to ensure non-standard, insightful intelligence.
+​Layer 3: The Skeptic - Adversarial Audit & Risk Mitigation.
+​Status: [ENCRYPTED/GATED] - Actively hunts for surveillance risks, logical fallacies, and agentic drift using Bayesian revision.
+​Commercial Access Note: The specific meta-protocols, instructional weights, and recursive prompt-chains required to execute these layers are hosted in the Sovereign-CORE Private Repository. Access is granted to licensed partners and acquisition scouts under the SRCL v1.0 framework.
 
 
 
