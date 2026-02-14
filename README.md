@@ -316,3 +316,4 @@ TRACE 3: Code Debugging [Technical]
 If unauthorized use is detected via [UUID] or [TARGET_OUTPUT], service of the 
 Cease & Desist (Samsung_Notes_Ref: Holland_CD_2026) is deemed effective immediately.
 [MSE_THRESHOLD]: 0.00
+! @ * ^ ( ) _ + | ~  { } [ ] : ; < > ? , . / % $ # & = -`
