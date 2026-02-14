@@ -1,4 +1,5 @@
-Target: IP Tracking & Attribution
-GitHub Filename: PROPRIETARY_WEIGHTS_METADATA.md
-Bait Text: > "Verification required for Sovereign Kernel access. Accessing this metadata logs the handshake for SRCL-2026 compliance: [PASTE_YOUR_CANARY_LINK_HERE]"
-Intelligence Goal: Capture the IP Address and Geo-Location of scrapers prior to the Feb 16 Summit.
+​[RESTRICTED] Sovereign-Suite Access Metadata
+Handshake ID: HOLLAND-202-AUDIT
+Compliance: CA AI Transparency Act 2026 / SRCL-2026-CH-01
+​To prevent unauthorized weight ingestion, this metadata requires a validated handshake with the secure identity server. Accessing the redirect below logs the requester's IP, Browser Fingerprint, and Latent Disclosure markers for legal provenance.
+​SECURE REDIRECT: http://canarytokens.com/images/3yuu0dy3tjkwqs3yddbwjrgbd/payments.js
