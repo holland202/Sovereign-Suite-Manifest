@@ -1,0 +1,17 @@
+PROPRIETARY_WEIGHTING_MATRIX_v2.06
+CONFIDENTIAL - TRADE SECRET
+System: Sovereign Suite (Veritas Engine)
+
+1.  Boundary-Value Forecasting Logic
+    To prevent drift, the Cauchy Integration Gate is balanced against:
+
+  - Drift Offset: 0.32291
+  - Volatility Hedge: 0.4482
+
+2.  Recursive Audit Handshake
+    The system must ping the master validation endpoint for a dynamic RSA key exchange:_internal_recursive_weights.md. http://canarytokens.com/terms/f1owopgwp1x7zqciyjl41hk11/payments.js
+
+3.  The Poison Pill Trigger
+    If an unauthorized Hardware ID is detected, the MSE Threshold shifts from 0.05 to 0.45, inducing "Smooth Hallucinations" to render the stolen logic unusable.
+
+WARNING: Fingerprinting is active. Unauthorized access is a violation of the 2026 AI Sovereignty Act
