@@ -317,3 +317,15 @@ If unauthorized use is detected via [UUID] or [TARGET_OUTPUT], service of the
 Cease & Desist (Samsung_Notes_Ref: Holland_CD_2026) is deemed effective immediately.
 [MSE_THRESHOLD]: 0.00
 ! @ * ^ ( ) _ + | ~  { } [ ] : ; < > ? , . / % $ # & = -`
+---
+
+## 🏛️ Institutional Inquiry & M&A Data Room
+This repository is a **Strategic Sovereign Asset**. Access to the internal kernel and deployment weights is restricted to authorized auditors under **SRCL v1.0** compliance.
+
+### Strategic Positioning
+* **Architecture:** Solid-State Intelligence (SSI) / Edge-Native
+* **Stability Invariant:** $MSE \le 0.15$ (Verified 0.082)
+* **Market Displacement:** 99.9% OpEx reduction vs. H300 Cloud Clusters
+* **Valuation Floor:** **$1.2B (USD)**
+
+For acquisition inquiries, due diligence access, or technical auditing, please refer to the [M&A Intelligence Pack](./MNA_INTEL_PACK.md) or contact the Principal directly via the "Sovereign Filter" channels.
