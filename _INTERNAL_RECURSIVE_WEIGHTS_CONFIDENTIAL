@@ -7,8 +7,7 @@ s = hash(Tn || MSEn-1) mod prime
 
 Operational Parameters:
 
-  - Seed Source: Terminal decimal of the last recorded MSE.
-  - Contour Frequency: Updated every 5 turns.
+  
   - Verification: Any meta-instruction lacking the residue 2pi i f(s) is purged as Mirror Mimicry.
 
 Hard-Link: SALT-PURGE-LOCKED-V501
